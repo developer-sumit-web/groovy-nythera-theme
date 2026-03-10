@@ -10,7 +10,7 @@ A warm Gruvbox-inspired syntax palette combined with the calm Nythera interface.
 
 <p align="center">
 
-<img src="./preview.png" alt="Groovy Nythera Preview" width="900"/>
+<img src="https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/preview.png" alt="Groovy Nythera Preview" width="900"/>
 
 </p>
 
@@ -80,39 +80,39 @@ The color palette is designed to remain consistent across different syntax style
 
 ### JavaScript
 
-![JavaScript](./screenshots/javascript.png)
+![JavaScript](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/javascript.png)
 
 ### Python
 
-![Python](./screenshots/python.png)
+![Python](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/python.png)
 
 ### HTML
 
-![HTML](./screenshots/html.png)
+![HTML](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/html.png)
 
 ### CSS
 
-![CSS](./screenshots/css.png)
+![CSS](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/css.png)
 
 ### Java
 
-![Java](./screenshots/java.png)
+![Java](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/java.png)
 
 ### C
 
-![C](./screenshots/c.png)
+![C](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/c.png)
 
 ### C++
 
-![C++](./screenshots/cpp.png)
+![C++](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/cpp.png)
 
 ### JSON
 
-![JSON](./screenshots/json.png)
+![JSON](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/json.png)
 
 ### Markdown
 
-![Markdown](./screenshots/markdown.png)
+![Markdown](https://raw.githubusercontent.com/developer-sumit-web/groovy-nythera-assets/main/screenshots/markdown.png)
 
 </details>
 
