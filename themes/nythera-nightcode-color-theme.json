@@ -1257,6 +1257,72 @@
 			"settings": {
 				"foreground": "#86b375"
 			}
+		},
+		{
+			"name": "Rust Macros",
+			"scope": [
+				"support.macro.rust",
+				"entity.name.function.macro.rust"
+			],
+			"settings": {
+				"foreground": "#7AA2D6",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "TOML Tables / Headers",
+			"scope": [
+				"entity.other.attribute-name.table.toml",
+				"entity.other.attribute-name.table.array.toml"
+			],
+			"settings": {
+				"foreground": "#cfa248",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "TOML Keys",
+			"scope": [
+				"support.type.property-name.toml"
+			],
+			"settings": {
+				"foreground": "#83a598"
+			}
+		},
+		{
+			"name": "TOML Strings",
+			"scope": [
+				"string.quoted.single.toml",
+				"string.quoted.double.toml",
+				"string.quoted.single.block.toml",
+				"string.quoted.double.block.toml"
+			],
+			"settings": {
+				"foreground": "#a7ad3c"
+			}
+		},
+		{
+			"name": "TOML Constants (Numbers, Booleans, Dates)",
+			"scope": [
+				"constant.numeric.toml",
+				"constant.language.boolean.toml",
+				"constant.other.date.toml",
+				"constant.other.time.toml"
+			],
+			"settings": {
+				"foreground": "#d3869b"
+			}
+		},
+		{
+			"name": "TOML Punctuation",
+			"scope": [
+				"punctuation.definition.keyValuePair.toml",
+				"punctuation.definition.table.toml",
+				"punctuation.definition.table.array.toml"
+			],
+			"settings": {
+				"foreground": "#a89984"
+			}
 		}
 	],
 	"semanticTokenColors": {
@@ -1267,6 +1333,12 @@
 		"namespace": "#83a598",
 		"constant.builtin": "#d3869b",
 		"variable.readonly": "#d3869b",
+		"keyword": "#d65a52",
+		"string": "#a7ad3c",
+		"number": "#d3869b",
+		"operator": "#86b375",
+		"comment": "#928374",
+		"decorator": "#cfa248",
 		"property": "#83a598",
 		"property:python": "#c7bfa8",
 		"parameter": "#d5c4a1",

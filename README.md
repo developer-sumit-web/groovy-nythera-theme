@@ -3,7 +3,7 @@
 
   <img src="https://raw.githubusercontent.com/developer-sumit-web/nythera-nightcode-assets/main/Nythera-Nightcode-Header.png" alt="Nythera-Nightcode-Header">
 
-  <p>A dark theme that won’t burn your eyes at 2AM.</p>
+  <p>A calm environment for chaotic codebases.</p>
 
 <br>
 
@@ -20,6 +20,29 @@
   <img src="https://img.shields.io/visual-studio-marketplace/i/sumit-dev.nythera-nightcode?style=flat-square&color=151e29&label=installs" alt="Installs">
   <img src="https://img.shields.io/badge/license-MIT-151e29?style=flat-square" alt="License">
 </div>
+
+---
+
+## 🌑 The 2AM Problem
+
+We've all been there. It's late, you're staring at a bug that refuses to die, and your editor feels like a flashlight pointed at your face. Or worse, you switch to a "low contrast" theme and end up squinting just to tell a string from a variable.
+
+I built **Nythera Nightcode** because I was tired of switching themes every few hours. I wanted something calmer, more balanced, and easy to work with for long sessions.
+
+The goal is simple: **If you forget the theme is even there, it’s working.**
+
+---
+
+## ✨ What makes it different?
+
+This isn't just another dark theme. It’s a carefully tuned environment designed to get out of your way.
+
+- **Gruvbox, but softer:** The syntax colors are inspired by the legendary Gruvbox palette, retuned to reduce harsh contrast and brightness.
+- **Deep Base:** A low-luminance background designed to minimize glare, especially in low-light environments.
+- **Calm Interface:** No aggressive neon highlights pulling your attention away from the logic.
+- **Predictability:** Editor and UI colors stay consistent, avoiding washed-out greys and overly bright highlights.
+
+Built for long debugging sessions... when your eyes give up before the bug does.
 
 ---
 
@@ -41,7 +64,7 @@
 
 ## 🖼️ Preview
 
-> Preview captured using **Fira Code**
+> Preview captured using **Fira Code** font
 
 ### JavaScript
 
@@ -61,77 +84,21 @@
 
 ---
 
-## ✨ What this is
-
-A dark theme focused on long-term comfort.
-
-- Low-luminance background to reduce visual fatigue
-- Reduced brightness in syntax colors to avoid harsh contrast
-- Keeps syntax clear and easy to read
-- Syntax colors are based on Gruvbox, retuned for a softer, lower-contrast look.
-
-Built for long debugging sessions… when your eyes give up before the bug does.
-
----
-
-## 🧠 What you’ll notice
-
-**Calm Interface:**
-Nothing pulls attention away from the code.
-
-**Controlled Contrast:**
-Readable, but not overwhelming.
-
-**Consistency:**
-Colors stay predictable across different files.
-
----
-
-## 🎯 Why this exists
-
-I kept running into the same problems with dark themes:
-
-- some looked good but became tiring after a while
-- some were so low contrast that everything felt washed out
-- others used strong colors that were distracting over time
-
-Even themes that claimed to be “low contrast” didn’t always feel comfortable to use.
-
-So I built this for myself — something calmer, more balanced, and easier to work with for long sessions.
-
-Over time, it felt worth sharing.
-
----
-
-## 🎨 Features
-
-**Retuned Syntax Colors:**
-Based on Gruvbox, adjusted to reduce brightness and harsh contrast
-
-**Low-Luminance Background:**
-Dark base designed to minimize glare in low-light environments
-
-**Balanced Contrast:**
-Avoids both washed-out greys and overly bright highlights
-
-**UI Integration:**
-Editor and interface colors are kept consistent
-
----
-
 ## 💻 Tested With
 
 `JavaScript` • `TypeScript` • `Python` • `Java` • `C` • `C++`
-`HTML` • `CSS` • `JSON` • `Markdown`
+`HTML` • `CSS` • `JSON` • `Markdown` • `TOML`
 
 For more previews across different languages:
-👉 https://github.com/developer-sumit-web/nythera-nightcode-assets
+👉 [`View the Asset Gallery`](https://github.com/developer-sumit-web/nythera-nightcode-assets)
 
 ---
 
-## 🧩 UI Setup (Mine)
+## 🧩 My Personal UI Setup
 
-The preview uses a mostly default VS Code layout with a few minor tweaks for clarity.
+A theme is only half the battle. The preview screenshots use a mostly default VS Code layout with a few minor tweaks to reduce visual clutter.
+
+Try adding these to your settings.json. Even a few of them can drastically improve your reading experience:
 
 ```json
 {
@@ -167,8 +134,6 @@ The preview uses a mostly default VS Code layout with a few minor tweaks for cla
 }
 ```
 
-You don’t need to apply all of these — even a few of them can improve the experience.
-
 ---
 
 ## ⚠️ About Display & Color
@@ -178,29 +143,22 @@ The theme was designed and tested on:
 - OLED display (1920×1200)
 - 100% sRGB color profile
 
-Colors may vary depending on your display.
+Colors may vary slightly depending on your monitor's panel type.
 
-If it looks different:
+If things look a bit off:
 
-- adjust brightness or contrast
-- tweak zoom / font size
-- fine-tune UI settings
+- adjust monitor brightness or contrast
+- tweak editor zoom or font size
 
 ---
 
 ## 🐛 Feedback & Issues
 
-Found a bug or have an idea to make the theme better?
-👉 [Open an Issue on GitHub](https://github.com/developer-sumit-web/nythera-nightcode-theme/issues)
+Found a bug or have an idea to make the theme better? Let's fix it.
+👉 [`Open an Issue on GitHub`](https://github.com/developer-sumit-web/nythera-nightcode-theme/issues)
 
 ---
 
 ## 📝 License
 
 MIT License
-
----
-
-<div align="center">
-  <p>If you forget the theme is even there… it’s working.</p>
-</div>

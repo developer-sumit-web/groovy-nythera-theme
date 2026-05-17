@@ -4,13 +4,43 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ---
 
+## [2.2.0] - 2026-05-18
+
+### Added
+
+* Added dedicated TOML syntax highlighting support
+* Added TOML table and array header highlighting
+* Added TOML key highlighting
+* Added TOML string highlighting
+* Added TOML numeric, boolean, date, and time highlighting
+* Added TOML punctuation highlighting
+* Added Rust macro highlighting with italicized cool-blue styling
+
+### Changed
+
+* Expanded semantic token color coverage for:
+
+  * keywords
+  * strings
+  * numbers
+  * operators
+  * comments
+  * decorators
+  * properties
+
+### Notes
+
+* Focused on improving semantic consistency while preserving Nythera Nightcode’s restrained palette and low-fatigue readability
+
+---
+
 ## [2.1.1] - 2026-04-14
 
 ### Changed
 
-- Refined color tuning for better consistency across UI and syntax
-- Updated documentation
-- Added header logo and visual updates to README
+* Refined color tuning for better consistency across UI and syntax
+* Updated documentation
+* Added header logo and visual updates to README
 
 ---
 
@@ -18,8 +48,8 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ### Changed
 
-- Updated extension icon
-- Refined documentation for clarity
+* Updated extension icon
+* Refined documentation for clarity
 
 ---
 
@@ -27,7 +57,7 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ### Changed
 
-- Minor documentation refinement
+* Minor documentation refinement
 
 ---
 
@@ -35,10 +65,10 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ### Changed
 
-- Renamed theme to **Nythera Nightcode**
-- Rebalanced color palette for better harmony across UI and syntax
-- Improved contrast tuning for clearer readability
-- Updated branding, preview assets, and repository structure
+* Renamed theme to **Nythera Nightcode**
+* Rebalanced color palette for better harmony across UI and syntax
+* Improved contrast tuning for clearer readability
+* Updated branding, preview assets, and repository structure
 
 ---
 
@@ -46,10 +76,10 @@ All notable changes to **Nythera Nightcode** are documented here.
 
 ### Added
 
-- Initial release of the theme (previously under a different name)
-- Core dark UI structure and base color system
+* Initial release of the theme (previously under a different name)
+* Core dark UI structure and base color system
 
 ### Notes
 
-- Focused on balancing clarity and visual comfort
-- Designed for stable appearance across multiple languages
+* Focused on balancing clarity and visual comfort
+* Designed for stable appearance across multiple languages
